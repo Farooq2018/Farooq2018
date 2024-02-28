@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farooq2018
 - 👀 I’m interested in Mobile and Web Application Development and Azure or other cloud services.
-- 🌱 I’m currently learning Spring Boot, MEAN Stack, and Mastering SQL
+- 🌱 I’m currently learning FastAPI, Spring Boot, MEAN Stack, and Mastering SQL
 - 💞️ I’m looking to collaborate on Flutter Projects and Spring Boot Web Development
 - 📫 How to reach me by email: farooqahm97@gmail.com
 
