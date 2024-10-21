@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @Farooq2018<br>    👀 I’m interested in Mobile and Web Application Development and Azure or other cloud services.<br>    🌱 I’m currently learning FastAPI, Spring Boot, MEAN Stack, and Mastering NoSQL<br>    💞️ I’m looking to collaborate on FastAPI, Angular, or Spring Boot Web Development Projects<br>    📫 How to reach me by email: farooqahm97@gmail.com<br><br>
+<br>    👋 Hi, I’m Farooq Ahmed<br>    👀 I’m interested in Data Engineering, Mobile and Web Application Development and AWS or other cloud services.<br>    🌱 I’m currently learning FastAPI, Spring Boot, Angular, and Mastering NoSQL<br>    💞️ I’m looking to collaborate on FastAPI, Flutter, Angular, or Spring Boot Web Development Projects<br>    📫 How to reach me by email: farooqahm97@gmail.com<br><br>
 
 
 ## 🌐 Socials:
